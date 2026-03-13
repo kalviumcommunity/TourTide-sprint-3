@@ -1,4 +1,3 @@
-```markdown
 # TourTide
 
 ## Overview
@@ -96,4 +95,4 @@ TourTide addresses this problem by forecasting tourist footfall so that city off
 
 ## Expected Impact
 TourTide enables tourism departments to anticipate visitor demand and plan city resources accordingly. With predictive insights, cities can better manage transportation systems, maintain cleanliness, and ensure public safety during peak tourism seasons.
-```
+
