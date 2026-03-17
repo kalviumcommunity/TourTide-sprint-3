@@ -96,3 +96,33 @@ TourTide addresses this problem by forecasting tourist footfall so that city off
 ## Expected Impact
 TourTide enables tourism departments to anticipate visitor demand and plan city resources accordingly. With predictive insights, cities can better manage transportation systems, maintain cleanliness, and ensure public safety during peak tourism seasons.
 
+---
+
+## Environment Setup Verification ✅
+
+This repository includes verification of a complete Data Science environment setup for the TourTide project.
+
+### Installation Status
+- **Python 3.14.0** - Successfully installed and verified
+- **Anaconda 2025.12-2** - Successfully installed and verified  
+- **Conda 25.11.1** - Working correctly
+
+### Verification Script
+Run `environment_setup_verification.py` to confirm the environment is properly configured:
+```bash
+python environment_setup_verification.py
+```
+
+The script verifies:
+- Python installation and version
+- Conda installation and accessibility
+- Basic Python functionality for Data Science work
+
+### System Information
+- **OS**: Windows
+- **Python Location**: `C:\Users\amuly\AppData\Local\Python\pythoncore-3.14.0\python.exe`
+- **Conda Location**: `C:\Users\amuly\anaconda3\Scripts\conda.exe`
+- **Setup Date**: March 17, 2026
+
+The environment is now ready for TourTide development and Data Science work.
+
