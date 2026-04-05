@@ -1,0 +1,16 @@
+date,transport_type,utilization_percentage,capacity,location,maintenance_status,efficiency_rating,load_category
+2023-01-01,bus,85.5,200,downtown,operational,good,medium
+2023-01-01,metro,92.3,150,downtown,operational,excellent,high
+2023-01-01,tram,78.2,100,tourist_area,operational,fair,medium
+2023-01-02,bus,79.8,200,downtown,operational,fair,medium
+2023-01-02,metro,88.7,150,downtown,operational,good,high
+2023-01-02,tram,82.1,100,tourist_area,operational,good,medium
+2023-01-03,bus,91.2,200,downtown,operational,excellent,high
+2023-01-03,metro,95.6,150,downtown,operational,excellent,high
+2023-01-03,tram,89.3,100,tourist_area,operational,good,high
+2023-01-04,bus,98.7,200,downtown,operational,excellent,high
+2023-01-04,metro,99.2,150,downtown,maintenance,excellent,high
+2023-01-04,tram,94.5,100,tourist_area,operational,excellent,high
+2023-01-05,bus,93.4,200,downtown,operational,excellent,high
+2023-01-05,metro,96.8,150,downtown,maintenance,excellent,high
+2023-01-05,tram,91.7,100,tourist_area,operational,excellent,high
